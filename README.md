@@ -9,7 +9,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/EMAIL-pransika6%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pransika6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-Explore_My_Work-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GITHUB-Explore_My_Work-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)](https://github.com/s224495249)
 
 <br/>
 
@@ -115,30 +115,28 @@ Improving problem-solving skills and keeping up with modern software engineering
 
 ## `04` — FEATURED PROJECTS
 
-> Replace the repository links below with your actual GitHub project URLs.
-
 <table>
 <tr>
 <td width="50%">
 
 ### 🍽️ Food Ordering System
 
-A web application concept for browsing food, managing a cart, and handling customer orders.
+A web application for browsing food, managing a cart, and handling customer orders.
 
 **Focus:** React · Node.js · Express · MongoDB
 
-[**↗ Explore Repository**](https://github.com/YOUR_GITHUB_USERNAME/YOUR_FOOD_PROJECT)
+[**↗ Explore Repository**](https://github.com/s224495249)
 
 </td>
 <td width="50%">
 
 ### 📅 Task Manager App
 
-An application concept for organizing tasks, tracking progress, and managing everyday activities.
+An application for organizing tasks, tracking progress, and managing everyday activities.
 
 **Focus:** Kotlin · Android · SQLite/Room
 
-[**↗ Explore Repository**](https://github.com/YOUR_GITHUB_USERNAME/YOUR_TASK_PROJECT)
+[**↗ Explore Repository**](https://github.com/s224495249)
 
 </td>
 </tr>
@@ -156,14 +154,14 @@ An application concept for organizing tasks, tracking progress, and managing eve
 
 <br/><br/>
 
+### 📈 CONTRIBUTION ACTIVITY
 
+<!-- Uses GitHub's own contribution calendar instead of the currently unavailable third-party activity graph service. -->
+<img width="100%" src="https://github.com/users/s224495249/contributions" alt="GitHub contribution activity"/>
 
-<div align="center">
+<br/>
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=s224495249&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY%20GRAPH" alt="GitHub Activity Graph" />
-
-</div>
-
+[**View Full GitHub Contribution History ↗**](https://github.com/s224495249)
 
 </div>
 
@@ -180,10 +178,11 @@ Have an interesting idea, a project to build, or an opportunity to collaborate?
 <br/>
 
 [![Email Me](https://img.shields.io/badge/EMAIL_ME-00FFD1?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:pransika6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s224495249)
 
 <br/>
 
+<!-- Visitor counter: if the provider is unavailable, the rest of the README still works. -->
 <img src="https://komarev.com/ghpvc/?username=s224495249&style=flat-square&color=00FFD1&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
 <br/><br/>
