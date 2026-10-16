@@ -177,7 +177,7 @@ Have an interesting idea, a project to build, or an opportunity to collaborate?
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00FFD1&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=s224495249&style=flat-square&color=00FFD1&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
 <br/><br/>
 
