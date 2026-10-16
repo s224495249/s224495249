@@ -22,6 +22,10 @@
 
 ## `01` — ABOUT ME
 
+<table>
+<tr>
+<td width="65%" valign="middle">
+
 ```yaml
 name: Ransika Perera
 role: Software Engineer
@@ -36,6 +40,15 @@ currently: Learning and building better software
 open_to: Collaboration and interesting projects
 ```
 
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer coding animation"/>
+
+</td>
+</tr>
+</table>
+
 I'm a Software Engineer passionate about building practical, reliable, and user-friendly software.
 I enjoy exploring new technologies, solving technical problems, and turning creative ideas into real-world applications.
 
@@ -43,7 +56,6 @@ I enjoy exploring new technologies, solving technical problems, and turning crea
 - 🧩 Exploring modern development tools and technologies
 - ☁️ Learning about cloud infrastructure and DevOps
 - 🚀 Always looking for opportunities to grow and collaborate
-
 <br clear="right"/>
 
 ---
