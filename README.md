@@ -156,7 +156,12 @@ An application concept for organizing tasks, tracking progress, and managing eve
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=s224495249&bg_color=0d1117&color=00ffd1&line=00ffd1&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+<div align="center">
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=s224495249&bg_color=0d1117&color=00ffd1&line=00ffd1&point=ffffff&area=true&hide_border=true&v=2" alt="GitHub contribution activity graph"/>
+
+</div>
 
 </div>
 
