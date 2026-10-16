@@ -18,7 +18,6 @@
 
 ---
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
 ## `01` — ABOUT ME
 
