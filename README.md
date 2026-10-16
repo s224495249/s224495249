@@ -160,7 +160,7 @@ An application concept for organizing tasks, tracking progress, and managing eve
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s224495249&theme=github-compact)
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=s224495249&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY%20GRAPH" alt="GitHub Activity Graph" />
 
 </div>
 
