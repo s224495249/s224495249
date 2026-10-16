@@ -150,13 +150,13 @@ An application concept for organizing tasks, tracking progress, and managing eve
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFD1&icon_color=00FFD1&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=s224495249&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFD1&icon_color=00FFD1&include_all_commits=true" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00FFD1" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s224495249&layout=compact&theme=github_dark&hide_border=true&title_color=00FFD1" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ffd1&line=00ffd1&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=s224495249&bg_color=0d1117&color=00ffd1&line=00ffd1&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
